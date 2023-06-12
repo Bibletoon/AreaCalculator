@@ -1,9 +1,7 @@
 using AreaCalculator.Shapes;
 using AreaCalculator.Shapes.Factory;
 
-namespace AreaCalculator.Tests;
-
-using NUnit.Framework;
+namespace AreaCalculator.Tests.Shapes;
 
 [TestFixture]
 public class ShapeFactoryTests

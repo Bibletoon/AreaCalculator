@@ -1,6 +1,6 @@
 using AreaCalculator.Shapes;
 
-namespace AreaCalculator.Tests;
+namespace AreaCalculator.Tests.Shapes;
 
 [TestFixture]
 public class CircleTests
