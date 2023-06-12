@@ -6,7 +6,7 @@ public class Circle : IShape
 
     public Circle(double radius)
     {
-        if (radius < 0)
+        if (radius <= 0)
             throw new ArgumentException("Invalid circle radius");
         
         Radius = radius;
